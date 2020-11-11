@@ -9,3 +9,5 @@ Information displayed:
 
 API used:
 - Covid19 API ([docs](https://covid19api.com))
+
+Download APK [here](https://github.com/EbnerLautaro/Covid-19-App/tree/master/app)
