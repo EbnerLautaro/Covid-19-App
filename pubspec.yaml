@@ -1,0 +1,28 @@
+name: coronavirus
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  country_icons: ^1.1.1     # Flags package
+  http: ^0.12.2             # Http request
+  humanize: ^0.3.0          # Prettier numbers 
+  flutter_svg: ^0.19.0      # SVG in flutter
+  share: ^0.6.5+3           # Share functionality
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/
+  
